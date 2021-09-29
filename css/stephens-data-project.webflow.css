@@ -387,6 +387,10 @@ p {
   flex-direction: column;
 }
 
+.div-block {
+  margin-bottom: 48px;
+}
+
 .div-block-2 {
   margin-top: 15px;
 }
@@ -426,6 +430,11 @@ p {
 
 .link-2 {
   text-decoration: none;
+}
+
+.image {
+  margin-bottom: 31px;
+  box-shadow: 1px 1px 9px 0 #e4e4e4;
 }
 
 @media screen and (max-width: 991px) {
